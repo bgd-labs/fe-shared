@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/bgd-labs/frontend-web3-utils/compare/v1.3.0...v1.3.1) (2024-07-01)
+
+
+### Bug Fixes
+
+* link typo in readme ([e422476](https://github.com/bgd-labs/frontend-web3-utils/commit/e422476e87c34c0358871202b1ee05723890b2fb))
+
 ## [1.3.0](https://github.com/bgd-labs/frontend-web3-utils/compare/v1.2.1...v1.3.0) (2024-07-01)
 
 
